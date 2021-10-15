@@ -1,0 +1,5 @@
+
+@font-face {
+  font-family: 'AccessibleDfA';
+  src: url('/font-accessible-dfa/AccessibleDfA-.tff') format('tff'), url('/font-accessible-dfa/AccessibleDfA.otf') format('otf'), url('/font-accessible-dfa/AccessibleDfA.woff') format('woff');
+}

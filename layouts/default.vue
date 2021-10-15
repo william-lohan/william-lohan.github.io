@@ -67,6 +67,6 @@ export default {
   z-index: 1;
 }
 .v-btn.v-btn--active:before {
-  color: #bf00ff;
+  color: #bf00ff; /* TODO use var */
 }
 </style>
