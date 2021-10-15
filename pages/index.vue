@@ -27,7 +27,10 @@ export default {
 
 .home-card {
   margin: 16px 0;
-  background-color: rgba(map-get($material-dark-elevation-colors, '1'), 0.5);
+  background-color: rgba(
+    map-get($material-dark-elevation-colors, '1'),
+    0.5
+  ) !important;
   backdrop-filter: blur(10px) grayscale(0.5);
 }
 </style>

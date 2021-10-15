@@ -9,8 +9,8 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - william-lohan.github.io',
-    title: 'william-lohan.github.io',
+    titleTemplate: '%s - William Lohan',
+    title: 'William Lohan',
     htmlAttrs: {
       lang: 'en',
     },
