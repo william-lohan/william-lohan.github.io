@@ -1,6 +1,6 @@
 <template>
   <v-row justify="center" align="center">
-    <v-col cols="12" sm="8" md="8" style="padding-bottom: 52px">
+    <v-col cols="12" sm="8" md="6" style="padding-bottom: 52px">
       <v-card class="links-list">
         <v-card-text>
           Things and people on the web I think you should check out.

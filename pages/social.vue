@@ -1,6 +1,6 @@
 <template>
   <v-row justify="center" align="center">
-    <v-col cols="12" sm="8" md="8" style="padding-bottom: 52px">
+    <v-col cols="12" sm="8" md="6" style="padding-bottom: 52px">
       <v-card class="social-list">
         <v-card-text> Social media and gamer tags. </v-card-text>
       </v-card>

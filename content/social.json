@@ -102,5 +102,29 @@
     "blurb": "",
     "user": "william-lohan-b202637a",
     "url": "https://www.linkedin.com/in/william-lohan-b202637a/"
+  },
+  {
+    "name": "PlayStation",
+    "slug": "playstation",
+    "icon": "fab fa-playstation",
+    "blurb": "",
+    "user": "splatkillwill",
+    "url": ""
+  },
+  {
+    "name": "D&D Beyond",
+    "slug": "dndbeyond",
+    "icon": "fas fa-dice-d20",
+    "blurb": "",
+    "user": "splatkillwill",
+    "url": "https://www.dndbeyond.com/members/splatkillwill"
+  },
+  {
+    "name": "Square Enix",
+    "slug": "square-enix",
+    "icon": "fas fa-keyboard",
+    "blurb": "",
+    "user": "splatkillwill",
+    "url": ""
   }
 ]

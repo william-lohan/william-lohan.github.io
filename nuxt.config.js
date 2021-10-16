@@ -53,9 +53,19 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
+    // https://go.nuxtjs.dev/pwa
+    '@nuxtjs/pwa',
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
   ],
+
+  // PWA module configuration: https://go.nuxtjs.dev/pwa
+  pwa: {
+    icon: false,
+    manifest: {
+      lang: 'en',
+    },
+  },
 
   // Content module configuration: https://go.nuxtjs.dev/config-content
   content: {},
