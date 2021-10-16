@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Facebook",
+    "slug": "facebook",
+    "icon": "fab fa-facebook",
+    "blurb": "",
+    "user": "william.lohan.79",
+    "url": "https://www.facebook.com/william.lohan.79/"
+  },
+  {
+    "name": "Instagram",
+    "slug": "instagram",
+    "icon": "fab fa-instagram",
+    "blurb": "",
+    "user": "splatkillwill",
+    "url": "https://www.instagram.com/splatkillwill/"
+  },
+  {
+    "name": "GitHub",
+    "slug": "github",
+    "icon": "fab fa-github",
+    "blurb": "",
+    "user": "william-lohan",
+    "url": "https://github.com/william-lohan"
+  },
+  {
+    "name": "Twitch",
+    "slug": "twitch",
+    "icon": "fab fa-twitch",
+    "blurb": "",
+    "user": "splat_killwill",
+    "url": "https://www.twitch.tv/splat_killwill"
+  },
+  {
+    "name": "Switch",
+    "slug": "switch",
+    "icon": "fas fa-gamepad",
+    "blurb": "",
+    "user": "SW-6175-2929-5200",
+    "url": ""
+  },
+  {
+    "name": "Minecraft",
+    "slug": "minecraft",
+    "icon": "fas fa-cubes",
+    "blurb": "",
+    "user": "gatimus",
+    "url": ""
+  },
+  {
+    "name": "Steam",
+    "slug": "steam",
+    "icon": "fab fa-steam",
+    "blurb": "",
+    "user": "splat_killwill",
+    "url": "https://steamcommunity.com/profiles/76561198042279179/"
+  },
+  {
+    "name": "YouTube",
+    "slug": "youtube",
+    "icon": "fab fa-youtube",
+    "blurb": "",
+    "user": "",
+    "url": "https://www.youtube.com/channel/UCFOyele5w2nqGcQAYIzEo7g"
+  },
+  {
+    "name": "Discord",
+    "slug": "discord",
+    "icon": "fab fa-discord",
+    "blurb": "",
+    "user": "splatkillwill#6219",
+    "url": ""
+  },
+  {
+    "name": "SoundCloud",
+    "slug": "soundcloud",
+    "icon": "fab fa-soundcloud",
+    "blurb": "",
+    "user": "splatkillwill",
+    "url": "https://soundcloud.com/splatkillwill"
+  },
+  {
+    "name": "BandLab",
+    "slug": "bandlab",
+    "icon": "fas fa-music",
+    "blurb": "",
+    "user": "gatimus",
+    "url": "https://www.bandlab.com/gatimus"
+  },
+  {
+    "name": "Tumblr",
+    "slug": "tumblr",
+    "icon": "fab fa-tumblr",
+    "blurb": "",
+    "user": "splatkillwill-blog",
+    "url": "https://www.tumblr.com/blog/view/splatkillwill-blog"
+  },
+  {
+    "name": "LinkedIn",
+    "slug": "linkedin",
+    "icon": "fab fa-linkedin",
+    "blurb": "",
+    "user": "william-lohan-b202637a",
+    "url": "https://www.linkedin.com/in/william-lohan-b202637a/"
+  }
+]

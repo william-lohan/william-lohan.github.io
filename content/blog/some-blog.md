@@ -1,6 +1,7 @@
 ---
 title: Some Blog
 description: Lorem ipsum dolor sit amet
+publish: true
 ---
 
 This is a fake blog post.

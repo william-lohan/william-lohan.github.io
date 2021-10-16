@@ -1,0 +1,42 @@
+[
+  {
+    "name": "The Chubby Cupboard",
+    "slug": "thechubbycupboard",
+    "icon": "fas fa-utensils",
+    "blurb": "",
+    "user": "",
+    "url": "https://www.thechubbycupboard.com/"
+  },
+  {
+    "name": "Psyco_Mom",
+    "slug": "psyco_mom",
+    "icon": "fab fa-twitch",
+    "blurb": "",
+    "user": "psyco_mom",
+    "url": "https://www.twitch.tv/psyco_mom"
+  },
+  {
+    "name": "themainstreeteclectical",
+    "slug": "themainstreeteclectical",
+    "icon": "fas fa-link",
+    "blurb": "",
+    "user": "",
+    "url": "https://linktr.ee/themainstreeteclectical"
+  },
+  {
+    "name": "captainmorgancosplay",
+    "slug": "captainmorgancosplay",
+    "icon": "fas fa-link",
+    "blurb": "",
+    "user": "",
+    "url": "https://linktr.ee/captainmorgancosplay"
+  },
+  {
+    "name": "HALLEY LABS (LapFox)",
+    "slug": "halleylabs",
+    "icon": "fas fa-music",
+    "blurb": "",
+    "user": "",
+    "url": "https://halleylabs.com/"
+  }
+]

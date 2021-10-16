@@ -1,6 +1,6 @@
 <template>
   <v-row justify="center" align="center">
-    <v-col cols="12" sm="8" md="8">
+    <v-col cols="12" sm="8" md="8" style="padding-bottom: 52px">
       <v-card v-for="blog in blogs" :key="blog.slug" class="blog-card">
         <v-card-title>{{ blog.title }}</v-card-title>
         <v-card-text>{{ blog.description }}</v-card-text>
@@ -17,6 +17,7 @@ export default {
   async asyncData({ $content }) {
     const blogs = await $content('blog')
       .only(['title', 'description', 'slug'])
+      .where({ publish: true })
       .fetch();
 
     return {
