@@ -12,6 +12,7 @@
           :key="l.slug"
           :href="l.url"
           :target="l.url ? '_blank' : undefined"
+          :rel="l.url ? 'noopener' : undefined"
           two-line
         >
           <v-list-item-icon class="icon">
