@@ -1,7 +1,19 @@
 {
-  "name": "william-lohan.github.io",
+  "name": "gatimus",
   "version": "1.0.0",
   "private": true,
+  "description": "personal blog",
+  "homepage": "https://gatimus.com/",
+  "bugs": {
+    "url": "https://github.com/william-lohan/william-lohan.github.io/issues"
+  },
+  "author": {
+    "name": "William Lohan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/william-lohan/william-lohan.github.io.git"
+  },
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",

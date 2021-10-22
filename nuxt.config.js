@@ -9,8 +9,8 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - William Lohan',
-    title: 'William Lohan',
+    titleTemplate: '%s - gatimus',
+    title: 'Home',
     htmlAttrs: {
       lang: 'en',
     },
@@ -61,9 +61,8 @@ export default {
 
   // PWA module configuration: https://go.nuxtjs.dev/pwa
   pwa: {
-    icon: false,
-    manifest: {
-      lang: 'en',
+    meta: {
+      theme_color: '#bf00ff',
     },
   },
 

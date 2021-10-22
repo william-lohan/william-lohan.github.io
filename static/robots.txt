@@ -1,6 +1,6 @@
 
-host: william-lohan.github.io
+host: gatimus.com
 
 User-agent: *
-Allow: /
 Disallow: /font-accessible-dfa/
+Allow: /

@@ -35,6 +35,9 @@ export default {
       social,
     };
   },
+  head: {
+    title: 'Social',
+  },
 };
 </script>
 

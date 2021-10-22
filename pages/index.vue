@@ -19,6 +19,9 @@ export default {
       page,
     };
   },
+  head: {
+    title: 'Home',
+  },
 };
 </script>
 

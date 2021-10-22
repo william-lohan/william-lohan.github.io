@@ -24,6 +24,9 @@ export default {
       blogs,
     };
   },
+  head: {
+    title: 'Blog',
+  },
 };
 </script>
 

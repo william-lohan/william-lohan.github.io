@@ -11,7 +11,7 @@
       <v-app-bar fixed app>
         <v-toolbar-items>
           <v-btn nuxt to="/">Home</v-btn>
-          <v-btn nuxt to="/social">Social & Games</v-btn>
+          <v-btn nuxt to="/social">Social</v-btn>
           <v-btn nuxt to="/blog">Blog</v-btn>
           <v-btn nuxt to="/links">Links</v-btn>
         </v-toolbar-items>

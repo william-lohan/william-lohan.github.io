@@ -37,6 +37,9 @@ export default {
       links,
     };
   },
+  head: {
+    title: 'Links',
+  },
 };
 </script>
 

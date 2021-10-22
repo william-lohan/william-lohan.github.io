@@ -92,8 +92,22 @@ _Note: If you are looking to get into C or C++ development `build-essential` is 
 
 You can use your regular Windows installation of Visual Studio Code to interact directly with the Linux environment. Install the [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) extension pack or just [Remote - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl). Then you can use the Remote Explorer to browse WSL Targets (WSL OS's you've installed). All the projects and files are in and commands run in the Linux environment.
 
-![](/Screenshot_2021-10-17_171944.png)
+![](/images/Screenshot_2021-10-17_171944.jpg)
 
 _Note: The `Remote Development` extension pack also includes `Remote - SSH` which allows you to interact with remote Linux environments exactly the same way_
+
+To test it out we can throw a `hello.cpp` in there.
+
+```cpp
+#include <iostream>
+
+int main()
+{
+  std::cout << "Hello World!\n";
+  return 0;
+}
+```
+
+![](/images/Screenshot_2021-10-21_205232.jpg)
 
 <!-- Does this need a conclusion paragraph (I suck at those) -->

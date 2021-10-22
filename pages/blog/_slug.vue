@@ -21,6 +21,11 @@ export default {
       blog,
     };
   },
+  head() {
+    return {
+      title: this.blog.title,
+    };
+  },
   computed: {
     date() {
       return this.blog?.updatedAt
