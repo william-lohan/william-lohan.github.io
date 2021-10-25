@@ -8,7 +8,7 @@
       ></v-img>
     </div>
     <div v-scroll="onScroll" class="parallax-foreground">
-      <v-app-bar fixed app>
+      <v-app-bar fixed app :dense="small">
         <v-toolbar-items>
           <v-btn nuxt to="/">Home</v-btn>
           <v-btn nuxt to="/social">Social</v-btn>
@@ -31,6 +31,11 @@ export default {
       parallax: 0,
       copyrightDate: new Date().getFullYear(),
     };
+  },
+  computed: {
+    small() {
+      return this.$vuetify.breakpoint.smAndDown;
+    },
   },
   methods: {
     onScroll() {
@@ -67,7 +72,17 @@ export default {
   padding-top: 64px;
   z-index: 1;
 }
+
 .v-btn.v-btn--active:before {
   color: #bf00ff; /* TODO use var */
+}
+</style>
+
+<style lang="scss">
+.v-toolbar--dense {
+  .v-toolbar__content {
+    padding-left: 0;
+    padding-right: 0;
+  }
 }
 </style>
