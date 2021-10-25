@@ -57,6 +57,7 @@ export default {
     '@nuxtjs/pwa',
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
+    '@nuxtjs/gtm',
   ],
 
   // PWA module configuration: https://go.nuxtjs.dev/pwa
@@ -96,4 +97,8 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
+
+  gtm: {
+    id: 'G-4B3626ZQNY', // Used as fallback if no runtime config is provided
+  },
 };
