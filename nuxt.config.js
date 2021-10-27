@@ -49,6 +49,7 @@ export default {
     '@nuxt/typescript-build',
     // https://go.nuxtjs.dev/vuetify
     '@nuxtjs/vuetify',
+    '@nuxtjs/google-analytics',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -98,7 +99,11 @@ export default {
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
 
+  googleAnalytics: {
+    id: 'G-4B3626ZQNY', // Use as fallback if no runtime config is provided
+  },
+
   gtm: {
-    id: 'G-4B3626ZQNY', // Used as fallback if no runtime config is provided
+    id: 'GTM-5HTD8XR', // Used as fallback if no runtime config is provided
   },
 };
