@@ -76,9 +76,7 @@ export default {
     customVariables: ['~/assets/variables.scss'],
     treeShake: true,
     defaultAssets: {
-      font: {
-        family: 'AccessibleDfA',
-      },
+      font: false,
     },
     theme: {
       dark: true,
