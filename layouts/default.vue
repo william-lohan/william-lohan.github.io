@@ -11,8 +11,9 @@
       <v-app-bar fixed app :dense="small">
         <v-toolbar-items>
           <v-btn nuxt to="/">Home</v-btn>
-          <v-btn nuxt to="/social">Social</v-btn>
           <v-btn nuxt to="/blog">Blog</v-btn>
+          <v-btn nuxt to="/photos">Photos</v-btn>
+          <v-btn nuxt to="/social">Social</v-btn>
           <v-btn nuxt to="/links">Links</v-btn>
         </v-toolbar-items>
       </v-app-bar>

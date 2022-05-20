@@ -1,11 +1,11 @@
 [
   {
-    "name": "Facebook",
-    "slug": "facebook",
-    "icon": "fab fa-facebook",
+    "name": "flickr",
+    "slug": "flickr",
+    "icon": "fab fa-flickr",
     "blurb": "",
-    "user": "william.lohan.79",
-    "url": "https://www.facebook.com/william.lohan.79/"
+    "user": "william.g.lohan",
+    "url": "https://www.flickr.com/photos/195514992@N05/"
   },
   {
     "name": "Instagram",
@@ -14,14 +14,6 @@
     "blurb": "",
     "user": "splatkillwill_art",
     "url": "https://www.instagram.com/splatkillwill_art/"
-  },
-  {
-    "name": "Instagram",
-    "slug": "instagram",
-    "icon": "fab fa-instagram",
-    "blurb": "",
-    "user": "splatkillwill",
-    "url": "https://www.instagram.com/splatkillwill/"
   },
   {
     "name": "GitHub",
@@ -38,6 +30,14 @@
     "blurb": "",
     "user": "splat_killwill",
     "url": "https://www.twitch.tv/splat_killwill"
+  },
+  {
+    "name": "LinkedIn",
+    "slug": "linkedin",
+    "icon": "fab fa-linkedin",
+    "blurb": "",
+    "user": "william-lohan-b202637a",
+    "url": "https://www.linkedin.com/in/william-lohan-b202637a/"
   },
   {
     "name": "Switch",
@@ -104,14 +104,6 @@
     "url": "https://www.tumblr.com/blog/view/splatkillwill-blog"
   },
   {
-    "name": "LinkedIn",
-    "slug": "linkedin",
-    "icon": "fab fa-linkedin",
-    "blurb": "",
-    "user": "william-lohan-b202637a",
-    "url": "https://www.linkedin.com/in/william-lohan-b202637a/"
-  },
-  {
     "name": "PlayStation",
     "slug": "playstation",
     "icon": "fab fa-playstation",
@@ -134,5 +126,29 @@
     "blurb": "",
     "user": "splatkillwill",
     "url": ""
+  },
+  {
+    "name": "Facebook",
+    "slug": "facebook",
+    "icon": "fab fa-facebook",
+    "blurb": "",
+    "user": "william.lohan.79",
+    "url": "https://www.facebook.com/william.lohan.79/"
+  },
+  {
+    "name": "Instagram",
+    "slug": "instagram2",
+    "icon": "fab fa-instagram",
+    "blurb": "personal",
+    "user": "splatkillwill",
+    "url": "https://www.instagram.com/splatkillwill/"
+  },
+  {
+    "name": "YouTube",
+    "slug": "youtube2",
+    "icon": "fab fa-youtube",
+    "blurb": "",
+    "user": "",
+    "url": "https://www.youtube.com/channel/UCCDjfmxKlxzIDV5dKBvfeSg"
   }
 ]

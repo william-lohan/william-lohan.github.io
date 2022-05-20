@@ -1,13 +1,18 @@
 <template>
-  <v-row justify="center" align="center">
-    <v-col cols="12" sm="8" md="8" style="padding-bottom: 52px">
-      <v-card class="home-card">
-        <v-card-text>
-          <nuxt-content :document="page" />
-        </v-card-text>
-      </v-card>
-    </v-col>
-  </v-row>
+  <v-container>
+    <v-row justify="center" align="center">
+      <v-col cols="12" sm="8" md="8" style="padding-bottom: 52px">
+        <v-card class="home-card">
+          <v-card-text>
+            <nuxt-content :document="page" />
+          </v-card-text>
+        </v-card>
+      </v-col>
+    </v-row>
+    <v-row justify="center" align="center">
+      <InstagramEmbed></InstagramEmbed>
+    </v-row>
+  </v-container>
 </template>
 
 <script>
