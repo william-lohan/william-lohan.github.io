@@ -2,5 +2,5 @@
 host: gatimus.com
 
 User-agent: *
-Disallow: /font-accessible-dfa/
+Disallow: /fonts/
 Allow: /
