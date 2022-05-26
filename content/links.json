@@ -38,5 +38,13 @@
     "blurb": "",
     "user": "",
     "url": "https://halleylabs.com/"
+  },
+  {
+    "name": "Unicorn Utterances",
+    "slug": "unicorn-utterances",
+    "icon": "fas fa-link",
+    "blurb": "",
+    "user": "",
+    "url": "https://unicorn-utterances.com/"
   }
 ]

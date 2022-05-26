@@ -1,6 +1,9 @@
 <template>
   <v-row justify="center" align="center">
     <v-col cols="12" sm="8" md="8" style="padding-bottom: 52px">
+      <v-card class="blog-card">
+        <v-card-text> For dev blogs check out <a href="https://unicorn-utterances.com/unicorns/splatkillwill">Unicorn Utterances</a> </v-card-text>
+      </v-card>
       <v-card v-for="blog in blogs" :key="blog.slug" class="blog-card">
         <v-card-title>{{ blog.title }}</v-card-title>
         <v-card-text>{{ blog.description }}</v-card-text>

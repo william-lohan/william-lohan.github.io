@@ -18,6 +18,13 @@
       "problemMatcher": [],
       "label": "npm: dev",
       "detail": "nuxt"
+    },
+    {
+      "type": "npm",
+      "script": "deploy",
+      "problemMatcher": [],
+      "label": "npm: deploy",
+      "detail": "push-dir --dir=dist --branch=gh-pages --cleanup"
     }
   ]
 }
