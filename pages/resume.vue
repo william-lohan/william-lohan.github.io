@@ -4,10 +4,10 @@
       <i>Requires Google Chrome</i>
     </v-row>
     <v-row justify="center" align="center">
-      <iframe src="http://gatimus.com/resume_office/"></iframe>
+      <iframe src="https://gatimus.com/resume_office/"></iframe>
     </v-row>
     <v-row justify="center" align="center">
-      <a href="http://gatimus.com/resume_office/Resume 2022.pdf" download="William Lohan" target="_blank">Download</a>
+      <a href="https://gatimus.com/resume_office/Resume 2022.pdf" download="William Lohan" target="_blank">Download</a>
     </v-row>
   </v-container>
 </template>
