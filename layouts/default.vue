@@ -15,6 +15,7 @@
           <v-btn nuxt to="/photos">Photos</v-btn>
           <v-btn nuxt to="/social">Social</v-btn>
           <v-btn nuxt to="/links">Links</v-btn>
+          <v-btn nuxt to="/resume">Resume</v-btn>
         </v-toolbar-items>
       </v-app-bar>
       <Nuxt></Nuxt>
