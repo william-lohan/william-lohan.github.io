@@ -1,0 +1,6 @@
+
+host: gatimus.com
+
+User-agent: *
+Disallow: /fonts/
+Allow: /
