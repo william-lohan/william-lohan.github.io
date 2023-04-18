@@ -1,5 +1,13 @@
 [
   {
+    "name": "Mastodon",
+    "slug": "mastodon",
+    "icon": "fab fa-mastodon",
+    "blurb": "",
+    "user": "splatkillwill",
+    "url": "https://tech.lgbt/@splatkillwill"
+  },
+  {
     "name": "flickr",
     "slug": "flickr",
     "icon": "fab fa-flickr",
@@ -22,6 +30,14 @@
     "blurb": "",
     "user": "william-lohan",
     "url": "https://github.com/william-lohan"
+  },
+  {
+    "name": "Stack Overflow",
+    "slug": "stack-overflow",
+    "icon": "fab fa-stack-overflow",
+    "blurb": "",
+    "user": "william-lohan",
+    "url": "https://stackoverflow.com/users/6656422/william-lohan"
   },
   {
     "name": "Unicorn Utterances",
