@@ -29,7 +29,7 @@ export default {
       {
         rel: 'stylesheet',
         type: 'text/css',
-        href: 'https://use.fontawesome.com/releases/v5.0.13/css/all.css',
+        href: 'https://use.fontawesome.com/releases/v5.15.4/css/all.css',
       },
     ],
   },

@@ -3,7 +3,7 @@
     "name": "Mastodon",
     "slug": "mastodon",
     "icon": "fab fa-mastodon",
-    "blurb": "",
+    "blurb": "tech.lgbt",
     "user": "splatkillwill",
     "url": "https://tech.lgbt/@splatkillwill"
   },
@@ -38,6 +38,22 @@
     "blurb": "",
     "user": "william-lohan",
     "url": "https://stackoverflow.com/users/6656422/william-lohan"
+  },
+  {
+    "name": "itch.io",
+    "slug": "itch-io",
+    "icon": "fab fa-itch-io",
+    "blurb": "page",
+    "user": "gatimus",
+    "url": "https://gatimus.itch.io/"
+  },
+  {
+    "name": "itch.io",
+    "slug": "itch-io2",
+    "icon": "fab fa-itch-io",
+    "blurb": "profile",
+    "user": "gatimus",
+    "url": "https://itch.io/profile/gatimus"
   },
   {
     "name": "Unicorn Utterances",
@@ -92,7 +108,7 @@
     "slug": "youtube",
     "icon": "fab fa-youtube",
     "blurb": "",
-    "user": "",
+    "user": "WilliamLohan",
     "url": "https://www.youtube.com/channel/UCFOyele5w2nqGcQAYIzEo7g"
   },
   {
@@ -172,7 +188,15 @@
     "slug": "youtube2",
     "icon": "fab fa-youtube",
     "blurb": "",
-    "user": "",
+    "user": "25gatimus",
     "url": "https://www.youtube.com/channel/UCCDjfmxKlxzIDV5dKBvfeSg"
+  },
+  {
+    "name": "Mastodon",
+    "slug": "mastodon2",
+    "icon": "fab fa-mastodon",
+    "blurb": "mastodon.social",
+    "user": "gatimus",
+    "url": "https://mastodon.social/@gatimus"
   }
 ]
